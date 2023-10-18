@@ -1,0 +1,14 @@
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\bin\Debug\net6.0\Animals hierarchy.exe
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\bin\Debug\net6.0\Animals hierarchy.deps.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\bin\Debug\net6.0\Animals hierarchy.runtimeconfig.json
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\bin\Debug\net6.0\Animals hierarchy.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\bin\Debug\net6.0\Animals hierarchy.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.AssemblyInfoInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.AssemblyInfo.cs
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\refint\Animals hierarchy.dll
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.pdb
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\Animals hierarchy.genruntimeconfig.cache
+C:\Users\Sitnik\OneDrive\Робочий стіл\C#\Animals hierarchy\Animals hierarchy\obj\Debug\net6.0\ref\Animals hierarchy.dll
